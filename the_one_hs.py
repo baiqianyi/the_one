@@ -410,8 +410,3 @@ plt.xticks(ts1, tss, rotation=55)
 plt.grid()
 plt.legend()
 plt.show()  # 显示
-
-"""
-class A:
-    name_code = {
-"""
